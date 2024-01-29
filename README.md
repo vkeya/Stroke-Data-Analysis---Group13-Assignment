@@ -1,5 +1,7 @@
 Stroke Data Analysis - Group Assignment
+
 Objective
+
 The groups' objective of this task is to perform data cleaning and exploratory data analysis (EDA) on the given dataset related to strokes.
 
 Specific Objectives:
